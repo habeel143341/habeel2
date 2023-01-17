@@ -1,4 +1,8 @@
 this is myfile1
 edited this foile on 9th jan 2022
 edited myfile1 on10th jan 2023
+<<<<<<< Updated upstream
 made change on 17th jan 2023 for stash purpose
+=======
+made change on 17th jan 2023
+>>>>>>> Stashed changes
